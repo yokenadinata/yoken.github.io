@@ -1,0 +1,15 @@
+body, html {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.animate-in {
+  animation: fade-slide 1.5s forwards;
+}
+
+.title {
+  width: 100%;
+  background-color: #ccc;
+  text-align: center;
+  padding: 30px 0;
+}
